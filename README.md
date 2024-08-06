@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Loria</h1>
-<h3 align="center">I am 20 years old and I am a full stack web developer, more focused on the backend. I am a passionate, hard-working person committed to learning and continually improving. I am looking for opportunities to learn and grow in Web Development in both Back-End and Front-End, and I am excited to connect with people and companies that share my values and passion for the IT world.</h3>
+<h3 align="center">I am 21 years old and I am a full stack web developer, more focused on the backend. I am a passionate, hard-working person committed to learning and continually improving. I am looking for opportunities to learn and grow in Web Development in both Back-End and Front-End, and I am excited to connect with people and companies that share my values and passion for the IT world.</h3>
 
 - 🔭 I’m currently working on **portfolio**
 
